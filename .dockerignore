@@ -1,8 +1,8 @@
 # .dockerignore
 
 # .NET build outputs and user files
-[Bb]in/
-[Oo]bj/
+**/[Bb]in/
+**/[Oo]bj/
 .vs/
 .vscode/
 *.user
