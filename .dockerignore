@@ -1,0 +1,23 @@
+# .dockerignore
+
+# .NET build outputs and user files
+[Bb]in/
+[Oo]bj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Git repository data
+.git/
+.gitignore
+
+# Documentation and environment files
+README.md
+.env
+
+# Test results and coverage
+TestResults/
+*.log
